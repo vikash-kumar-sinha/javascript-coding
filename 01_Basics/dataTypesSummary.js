@@ -16,3 +16,8 @@ const myObj={
 } // data type=>object
 
 const myFunObj= function(){console.log("hello world")}; //datatype =>function Object
+
+//+++++++++++++++++++++++++++++++++++++++++++++++
+// stack(primitive )=> call by value and heap(non-primitive)=>call by refrence
+// in non-primitive if a value of one is changed and it is refrenced in another variable then at both the places values will be changed
+
